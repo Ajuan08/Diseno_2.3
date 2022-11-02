@@ -1,0 +1,20 @@
+h1 {
+    color: darkred;
+   
+}
+
+p {
+    color: rgb(51, 204, 51);
+   
+}
+
+em {
+    color: #0033cc;
+}
+
+
+/* HECHO CON HSL
+em {
+    color: hsl(225, 100%, 40%);
+}
+*/
